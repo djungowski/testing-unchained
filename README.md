@@ -12,3 +12,8 @@ node_modules/jasmine/bin/jasmine.js
 ```
 
 Tests in: [spec/some-class-spec.js](spec/some-class-spec.js)
+
+## CasperJS
+```bash
+node_modules/casperjs/bin/casperjs test casper-tests/
+```

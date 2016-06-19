@@ -4,6 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+	"preinstall": "npm install -g phantomjs-prebuilt",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -17,6 +18,7 @@
   },
   "homepage": "https://github.com/djungowski/testing-unchained#readme",
   "dependencies": {
+    "casperjs": "^1.1.1",
     "jasmine": "^2.4.1"
   }
 }
