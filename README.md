@@ -11,4 +11,4 @@ npm install
 node_modules/jasmine/bin/jasmine.js
 ```
 
-Tests in: [spec/some-class-spec.js](blob/master/spec/some-class-spec.js)
+Tests in: [spec/some-class-spec.js](spec/some-class-spec.js)
