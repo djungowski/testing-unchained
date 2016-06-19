@@ -3,3 +3,6 @@ Quelltexte und Folien für den Vortrag "Testing Unchained" auf der Developer Wee
 
 ## Installation
 ```npm install```
+
+## Jasmine
+```node_modules/jasmine/bin/jasmine.js```
