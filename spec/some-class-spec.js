@@ -1,0 +1,1 @@
+var SomeClass = require('../lib/some-class.js');
