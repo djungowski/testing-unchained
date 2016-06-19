@@ -17,3 +17,8 @@ Tests in: [spec/some-class-spec.js](spec/some-class-spec.js)
 ```bash
 node_modules/casperjs/bin/casperjs test casper-tests/
 ```
+
+## cucumber.js
+```bash
+node_modules/cucumber/bin/cucumber.js
+```
