@@ -41,3 +41,8 @@ Tests in:
 
 ## Folien
 [pdf/Testing unchained.pdf](pdf/Testing_unchained.pdf)
+
+## Links
+- [Jasmine](http://jasmine.github.io/)
+- [CasperJS](http://casperjs.org/)
+- [cucumber.js](https://github.com/cucumber/cucumber-js)
