@@ -8,21 +8,21 @@ npm install
 
 ## Jasmine
 ```bash
-node_modules/jasmine/bin/jasmine.js
+npm run jasmine
 ```
 
 Tests in: [spec/some-class-spec.js](spec/some-class-spec.js)
 
 ## CasperJS
 ```bash
-node_modules/casperjs/bin/casperjs test casper-tests/
+npm rum casper
 ```
 
 Tests in [casper-tests/wikipedia-test.js](casper-tests/wikipedia-test.js)
 
 ## cucumber.js
 ```bash
-node_modules/cucumber/bin/cucumber.js
+npm run cucumber
 ```
 
 Tests in:
