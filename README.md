@@ -1,3 +1,6 @@
+![Testing unchained](unchained.png)
+Image (c) deviant art
+
 # Testing Unchained
 Quelltexte und Folien für den Vortrag "Testing Unchained" auf der Developer Week 2016
 
