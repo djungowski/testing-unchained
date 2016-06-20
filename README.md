@@ -1,5 +1,5 @@
 ![Testing unchained](unchained.png)
-Image (c) deviant art
+Image (c) [Callum Wilkins / deviant art](http://callumwilkins.deviantart.com/art/Django-Unchained-Wallpaper-391966509)
 
 # Testing Unchained
 Quelltexte und Folien für den Vortrag "Testing Unchained" auf der Developer Week 2016
