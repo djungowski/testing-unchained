@@ -32,3 +32,6 @@ Tests in:
 - [features/wikipedia-einfach.feature](features/wikipedia-einfach.feature)
 - [features/wikipedia-extended.feature](features/wikipedia-extended.feature)
 - [features/step_definitions/wikipedia_steps.js](features/step_definitions/wikipedia_steps.js)
+
+## Folien
+[pdf/Testing unchained.pdf](pdf/Testing_unchained.pdf)
