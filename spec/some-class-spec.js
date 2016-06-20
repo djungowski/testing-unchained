@@ -45,8 +45,6 @@ describe('SomeClass Test Suite', function() {
 			spyOn(global, 'setTimeout').and.returnValue();
 			this.instance.delayedExecution();
 			expect(global.setTimeout).toHaveBeenCalledTimes(1);
-
-			jasmine.getFixtures().set('<div>')
 		});
 	});
 });
