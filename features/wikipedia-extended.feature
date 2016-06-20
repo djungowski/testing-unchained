@@ -2,7 +2,7 @@
 
 Funktionalität: Wikipedia Suche (Extended)
   Grundlage:
-    Gegeben sei Ich öffne "http://de.wikipedia.org"
+    Gegeben sei Ich öffne "http://localhost"
     Wenn Ich im Suchfeld "deutsche brauerei" eingebe
     Dann Wird die Seite neugeladen
 
