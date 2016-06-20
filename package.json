@@ -5,7 +5,9 @@
   "main": "index.js",
   "scripts": {
     "preinstall": "npm install -g phantomjs-prebuilt",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "cucumber": "node_modules/cucumber/bin/cucumber.js",
+    "casper": "node_modules/casperjs/bin/casperjs test casper-tests/",
+    "jasmine": "node_modules/jasmine/bin/jasmine.js"
   },
   "repository": {
     "type": "git",
