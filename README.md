@@ -11,8 +11,7 @@ npm install
 
 ## Wikipedia Mock starten
 ```bash
-cd wikipedia-mock
-sudo npm start
+npm run wikipedia
 ```
 
 ## Jasmine
