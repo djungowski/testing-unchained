@@ -5,7 +5,7 @@ casper.options.viewportSize = {
 
 casper.test.begin('Wikipedia test suite', function(test) {
 
-	casper.start('http://localhost', function () {
+	casper.start('http://localhost:8080', function () {
 		this.fill('#searchform', {search: 'deutsche brauerei'}, true);
 		this.waitForSelector('.searchdidyoumean');
 	});

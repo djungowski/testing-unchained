@@ -7,7 +7,8 @@
     "preinstall": "npm install -g phantomjs-prebuilt",
     "cucumber": "node_modules/cucumber/bin/cucumber.js",
     "casper": "node_modules/casperjs/bin/casperjs test casper-tests/",
-    "jasmine": "node_modules/jasmine/bin/jasmine.js"
+    "jasmine": "node_modules/jasmine/bin/jasmine.js",
+	"wikipedia": "cd wikipedia-mock; npm start"
   },
   "repository": {
     "type": "git",
