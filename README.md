@@ -9,6 +9,12 @@ Quelltexte und Folien für den Vortrag "Testing Unchained" auf der Developer Wee
 npm install
 ```
 
+## Wikipedia Mock starten
+```bash
+cd wikipedia-mock
+sudo npm start
+```
+
 ## Jasmine
 ```bash
 npm run jasmine
