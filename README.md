@@ -40,7 +40,7 @@ Tests in:
 - [features/step_definitions/wikipedia_steps.js](features/step_definitions/wikipedia_steps.js)
 
 ## Folien
-[pdf/Testing unchained.pdf](pdf/Testing_unchained.pdf)
+[pdf/Testing unchained.pdf](pdf/Testing%20unchained.pdf)
 
 ## Links
 - [Jasmine](http://jasmine.github.io/)
